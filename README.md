@@ -11,5 +11,5 @@ npm i -S is-amicable
 var isAmicable = require('is-amicable');
 
 console.log(isAmicable(220)); // true
-console.log(isAmicable(284)); // 105263157894736842
+console.log(isAmicable(284)); // true
 console.log(isAmicable(300)); // false

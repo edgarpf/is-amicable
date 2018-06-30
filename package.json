@@ -1,0 +1,27 @@
+{
+  "name": "is-amicable",
+  "version": "1.0.0",
+  "description": "Simple function to know if a number is amicable",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarpf/is-amicable.git"
+  },
+  "keywords": [
+    "amicable",
+    "number"
+  ],
+  "author": "edgarpf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edgarpf/is-amicable/issues"
+  },
+  "homepage": "https://github.com/edgarpf/is-amicable#readme",
+  "dependencies": {
+    "array-sum": "^1.0.0",
+    "number-divisors": "^0.1.3"
+  }
+}
