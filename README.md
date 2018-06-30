@@ -13,3 +13,4 @@ var isAmicable = require('is-amicable');
 console.log(isAmicable(220)); // true
 console.log(isAmicable(284)); // true
 console.log(isAmicable(300)); // false
+console.log(isAmicable(1184)); // true
